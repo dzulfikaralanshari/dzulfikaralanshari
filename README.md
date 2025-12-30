@@ -1,5 +1,4 @@
-![unnamed](https://github.com/user-attachments/assets/22406ede-f5db-408b-b9b3-cff0e7c3324e)
-
+<img width="690" height="258" alt="image" src="https://github.com/user-attachments/assets/f074a457-1c43-4bdd-be20-873510de194f" />
 # 💫 About Me:
 Front End Engineer at PT Braincode Digital Teknologi<br>TypeScript | Modern Web UI | Computer Science Student at Budi Luhur University
 
