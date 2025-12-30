@@ -1,3 +1,5 @@
+![photo_2025-12-30_13-05-42](https://github.com/user-attachments/assets/9d73aa67-d763-4541-a434-0543042f9a78)
+
 # 💫 About Me:
 Front End Engineer at PT Braincode Digital Teknologi<br>TypeScript | Modern Web UI | Computer Science Student at Budi Luhur University
 
@@ -20,4 +22,5 @@ Front End Engineer at PT Braincode Digital Teknologi<br>TypeScript | Modern Web 
 ---
 [![](https://visitcount.itsvg.in/api?id=dzulfikaralanshari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.it![Uploading photo_2025-12-30_13-05-42.jpg…]()
+svg.in ) -->
