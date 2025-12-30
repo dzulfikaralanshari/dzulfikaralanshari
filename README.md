@@ -1,4 +1,4 @@
-![photo_2025-12-30_13-05-42](https://github.com/user-attachments/assets/9d73aa67-d763-4541-a434-0543042f9a78)
+![unnamed](https://github.com/user-attachments/assets/22406ede-f5db-408b-b9b3-cff0e7c3324e)
 
 # 💫 About Me:
 Front End Engineer at PT Braincode Digital Teknologi<br>TypeScript | Modern Web UI | Computer Science Student at Budi Luhur University
